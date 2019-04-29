@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="CriminalIntent" >
+        <item name="android:background">@color/dark_blue</item>
+    </style>
+
+
 </resources>
